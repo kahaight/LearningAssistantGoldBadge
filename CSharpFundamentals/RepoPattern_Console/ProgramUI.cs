@@ -173,7 +173,32 @@ namespace RepoPattern_Console
         //Delete existing content
         private void DeleteExistingContent()
         {
+            DisplayAllContent();
+            Console.WriteLine("What content do you want to delete?");
+            StreamingContent content = _repo.GetContentByTitle(Console.ReadLine());
+            if (content != null)
+            {
 
+                if (_repo.RemoveContentFromList(content.Title))
+                {
+                    Console.WriteLine("Content removed, press any key to continue");
+                    Console.ReadKey();
+                    Console.Clear();
+                }
+                else
+                {
+                    Console.WriteLine("Content could not be deleted, press any key to continue");
+                    Console.ReadKey();
+                    Console.Clear();
+                }
+
+            }
+            else
+            {
+                Console.WriteLine("Could not find content, press any key to continue");
+                Console.ReadKey();
+                Console.Clear();
+            }
         }
 
         private void SeedContentList()

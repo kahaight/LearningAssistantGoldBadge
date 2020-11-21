@@ -71,7 +71,7 @@ namespace RepoPattern_Repo
         {
             foreach (StreamingContent content in _listOfContent)
             {
-                if (content.Title == title)
+                if (content.Title.ToLower() == title.ToLower())
                 {
                     return content;
                 }
