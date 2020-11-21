@@ -1,0 +1,7 @@
+C:\ElevenFiftyV2\Learning Assistant\GoldBadge\CSharpFundamentals\RepoPattern_Console\bin\Debug\RepoPattern_Console.exe.config
+C:\ElevenFiftyV2\Learning Assistant\GoldBadge\CSharpFundamentals\RepoPattern_Console\bin\Debug\RepoPattern_Console.exe
+C:\ElevenFiftyV2\Learning Assistant\GoldBadge\CSharpFundamentals\RepoPattern_Console\bin\Debug\RepoPattern_Console.pdb
+C:\ElevenFiftyV2\Learning Assistant\GoldBadge\CSharpFundamentals\RepoPattern_Console\obj\Debug\RepoPattern_Console.csprojAssemblyReference.cache
+C:\ElevenFiftyV2\Learning Assistant\GoldBadge\CSharpFundamentals\RepoPattern_Console\obj\Debug\RepoPattern_Console.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyV2\Learning Assistant\GoldBadge\CSharpFundamentals\RepoPattern_Console\obj\Debug\RepoPattern_Console.exe
+C:\ElevenFiftyV2\Learning Assistant\GoldBadge\CSharpFundamentals\RepoPattern_Console\obj\Debug\RepoPattern_Console.pdb

@@ -1,0 +1,14 @@
+C:\ElevenFiftyV2\Learning Assistant\GoldBadge\Challenges\WeekOneThursday\WeekOneThursday\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\ElevenFiftyV2\Learning Assistant\GoldBadge\Challenges\WeekOneThursday\WeekOneThursday\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\ElevenFiftyV2\Learning Assistant\GoldBadge\Challenges\WeekOneThursday\WeekOneThursday\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\ElevenFiftyV2\Learning Assistant\GoldBadge\Challenges\WeekOneThursday\WeekOneThursday\bin\Debug\WeekOneThursday.dll
+C:\ElevenFiftyV2\Learning Assistant\GoldBadge\Challenges\WeekOneThursday\WeekOneThursday\bin\Debug\WeekOneThursday.pdb
+C:\ElevenFiftyV2\Learning Assistant\GoldBadge\Challenges\WeekOneThursday\WeekOneThursday\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\ElevenFiftyV2\Learning Assistant\GoldBadge\Challenges\WeekOneThursday\WeekOneThursday\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\ElevenFiftyV2\Learning Assistant\GoldBadge\Challenges\WeekOneThursday\WeekOneThursday\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\ElevenFiftyV2\Learning Assistant\GoldBadge\Challenges\WeekOneThursday\WeekOneThursday\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\ElevenFiftyV2\Learning Assistant\GoldBadge\Challenges\WeekOneThursday\WeekOneThursday\obj\Debug\WeekOneThursday.csprojAssemblyReference.cache
+C:\ElevenFiftyV2\Learning Assistant\GoldBadge\Challenges\WeekOneThursday\WeekOneThursday\obj\Debug\WeekOneThursday.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyV2\Learning Assistant\GoldBadge\Challenges\WeekOneThursday\WeekOneThursday\obj\Debug\WeekOneThursday.csproj.CopyComplete
+C:\ElevenFiftyV2\Learning Assistant\GoldBadge\Challenges\WeekOneThursday\WeekOneThursday\obj\Debug\WeekOneThursday.dll
+C:\ElevenFiftyV2\Learning Assistant\GoldBadge\Challenges\WeekOneThursday\WeekOneThursday\obj\Debug\WeekOneThursday.pdb
