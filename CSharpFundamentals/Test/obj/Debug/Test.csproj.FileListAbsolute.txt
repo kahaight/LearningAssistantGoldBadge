@@ -1,0 +1,7 @@
+C:\ElevenFiftyV2\Learning Assistant\GoldBadge\CSharpFundamentals\Test\bin\Debug\Test.exe.config
+C:\ElevenFiftyV2\Learning Assistant\GoldBadge\CSharpFundamentals\Test\bin\Debug\Test.exe
+C:\ElevenFiftyV2\Learning Assistant\GoldBadge\CSharpFundamentals\Test\bin\Debug\Test.pdb
+C:\ElevenFiftyV2\Learning Assistant\GoldBadge\CSharpFundamentals\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\ElevenFiftyV2\Learning Assistant\GoldBadge\CSharpFundamentals\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyV2\Learning Assistant\GoldBadge\CSharpFundamentals\Test\obj\Debug\Test.exe
+C:\ElevenFiftyV2\Learning Assistant\GoldBadge\CSharpFundamentals\Test\obj\Debug\Test.pdb

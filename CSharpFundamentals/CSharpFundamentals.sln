@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepoPattern_Console", "Repo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepoPattern_Tests", "RepoPattern_Tests\RepoPattern_Tests.csproj", "{D78FFA5F-C9C1-43C3-80D2-AD71B05A1B3C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{2F78F641-2A67-4BCE-B7A3-A48597954666}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_Inheritance", "07_Inheritance\07_Inheritance.csproj", "{EFA405AC-3DE3-4696-8856-24741BB2FB92}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{D78FFA5F-C9C1-43C3-80D2-AD71B05A1B3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D78FFA5F-C9C1-43C3-80D2-AD71B05A1B3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D78FFA5F-C9C1-43C3-80D2-AD71B05A1B3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F78F641-2A67-4BCE-B7A3-A48597954666}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F78F641-2A67-4BCE-B7A3-A48597954666}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F78F641-2A67-4BCE-B7A3-A48597954666}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F78F641-2A67-4BCE-B7A3-A48597954666}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFA405AC-3DE3-4696-8856-24741BB2FB92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFA405AC-3DE3-4696-8856-24741BB2FB92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFA405AC-3DE3-4696-8856-24741BB2FB92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFA405AC-3DE3-4696-8856-24741BB2FB92}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
