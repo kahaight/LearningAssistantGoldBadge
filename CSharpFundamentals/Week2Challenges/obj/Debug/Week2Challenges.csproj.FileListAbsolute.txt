@@ -1,0 +1,7 @@
+C:\ElevenFiftyV2\Learning Assistant\GoldBadge\CSharpFundamentals\Week2Challenges\bin\Debug\Week2Challenges.exe.config
+C:\ElevenFiftyV2\Learning Assistant\GoldBadge\CSharpFundamentals\Week2Challenges\bin\Debug\Week2Challenges.exe
+C:\ElevenFiftyV2\Learning Assistant\GoldBadge\CSharpFundamentals\Week2Challenges\bin\Debug\Week2Challenges.pdb
+C:\ElevenFiftyV2\Learning Assistant\GoldBadge\CSharpFundamentals\Week2Challenges\obj\Debug\Week2Challenges.csprojAssemblyReference.cache
+C:\ElevenFiftyV2\Learning Assistant\GoldBadge\CSharpFundamentals\Week2Challenges\obj\Debug\Week2Challenges.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyV2\Learning Assistant\GoldBadge\CSharpFundamentals\Week2Challenges\obj\Debug\Week2Challenges.exe
+C:\ElevenFiftyV2\Learning Assistant\GoldBadge\CSharpFundamentals\Week2Challenges\obj\Debug\Week2Challenges.pdb
